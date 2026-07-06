@@ -30,13 +30,13 @@ WFH Alert publishes daily remote job opportunities together with original resear
 Readers can also explore educational resources, downloadable datasets, and visual reports based on publicly available sources.
 
 Website:
-https://www.wfhalert.com
+https://www.wfhalert.com/
 
 Latest Articles:
 https://www.wfhalert.com/archive
 
 Remote Job Alerts:
-https://www.wfhalert.com
+https://www.wfhalert.com/
 
 ## About
 
@@ -67,7 +67,7 @@ https://www.wfhalert.com/archive
 ## Connect
 
 Website
-https://www.wfhalert.com
+https://www.wfhalert.com/
 
 Archive
 https://www.wfhalert.com/archive
