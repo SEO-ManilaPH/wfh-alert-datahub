@@ -6,7 +6,7 @@ Open research, remote work insights, workforce statistics, salary data, and educ
 
 This repository contains supporting resources, research references, and technical assets published by WFH Alert.
 
-Our goal is to make remote work information more accessible through data-driven articles, visual research, and educational resources.
+Our goal is to make information on remote work more accessible through data-driven articles, visual research, and educational resources.
 
 ## Our Mission
 
@@ -25,18 +25,18 @@ Our goal is to transform publicly available workforce data into practical resour
 
 ## Visit WFH Alert
 
-WFH Alert publishes daily remote job opportunities together with original research covering remote work, workforce statistics, salary trends, productivity, and labor market insights.
+WFH Alert publishes daily remote job opportunities along with original research on remote work, workforce statistics, salary trends, productivity, and labour market insights.
 
 Readers can also explore educational resources, downloadable datasets, and visual reports based on publicly available sources.
 
 Website:
-https://www.wfhalert.com/
+Website: <https://www.wfhalert.com/>
 
 Latest Articles:
 https://www.wfhalert.com/archive
 
 Remote Job Alerts:
-https://www.wfhalert.com/
+Looking for **[Remote Jobs No Experience](https://www.wfhalert.com/)**?
 
 ## About
 
@@ -66,17 +66,12 @@ https://www.wfhalert.com/archive
 
 ## Connect
 
-Website
-https://www.wfhalert.com/
+## Connect
 
-Archive
-https://www.wfhalert.com/archive
-
-About
-https://www.wfhalert.com/about
-
-Subscribe
-https://www.wfhalert.com/subscribe
+- 🌐 [WFH Alert Website](https://www.wfhalert.com/)
+- 📚 [Archive](https://www.wfhalert.com/archive)
+- ℹ️ [About WFH Alert](https://www.wfhalert.com/about)
+- 📩 [Subscribe](https://www.wfhalert.com/subscribe)
 
 ---
 
