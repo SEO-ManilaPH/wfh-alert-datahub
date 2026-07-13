@@ -23,6 +23,22 @@ Our goal is to transform publicly available workforce data into practical resour
 - Productivity Research
 - Labor Market Insights
 
+- ## Featured Research Articles
+
+### Productivity vs Worker Pay
+Understand how worker productivity has outpaced wage growth over the past four decades. This research explores the productivity-pay gap, remote work trends, salary growth, labor market insights, and how these factors affect today's workforce.
+
+📈 Read the full research:
+https://www.wfhalert.com/p/productivity-pay-gap
+
+Topics covered:
+- Productivity vs wages
+- Worker pay trends
+- Labor market research
+- Remote work productivity
+- Salary statistics
+- Workforce economics
+
 ## Visit WFH Alert
 
 WFH Alert publishes daily remote job opportunities along with original research on remote work, workforce statistics, salary trends, productivity, and labour market insights.
@@ -37,6 +53,21 @@ https://www.wfhalert.com/archive
 
 Remote Job Alerts:
 Looking for **[Remote Jobs No Experience](https://www.wfhalert.com/)**?
+
+## Explore WFH Alert
+
+Website:
+https://www.wfhalert.com
+
+Featured Research:
+https://www.wfhalert.com/p/productivity-pay-gap
+
+Career Guides:
+https://www.wfhalert.com/p/remote-jobs-no-experience
+https://www.wfhalert.com/p/data-entry-jobs-from-home
+
+Latest Articles:
+https://www.wfhalert.com/archive
 
 ## About
 
